@@ -85,7 +85,3 @@ print("consistency: " + consistency)
 2. Create a new branch for your feature or fix.
 3. Make your changes.
 4. Open a pull request with a description of what you've done.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
